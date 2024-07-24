@@ -3928,7 +3928,7 @@
   "name": "VinuChain Network",
   "chain": "VinuChain",
   "icon": "VinuChain",
-  "rpc": ["https://vinufoundation-rpc.com", "https://rpc.vinuchain.org"],
+  "rpc": ["https://rpc.vinuchain.org", "https://vinuchain-rpc.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "VinuChain",

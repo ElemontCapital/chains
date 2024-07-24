@@ -2491,7 +2491,7 @@
     "symbol": "VC",
     "decimals": 18
   },
-  "rpc": ["https://vinufoundation-rpc.com", "https://rpc.vinuchain.org"],
+  "rpc": ["https://rpc.vinuchain.org", "https://vinuchain-rpc.com"],
   "faucets": [],
   "infoURL": "https://vinuchain.org"
 }, {
