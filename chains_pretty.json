@@ -3902,7 +3902,7 @@
   "name": "VinuChain Testnet",
   "chain": "VinuChain Testnet",
   "icon": "VinuChain-Testnet",
-  "rpc": ["https://vinufoundation-rpc.com"],
+  "rpc": ["https://testnet-rpc.vinuchain.org", "https://vinufoundation-rpc.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "VinuChain",
