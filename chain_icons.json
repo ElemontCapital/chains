@@ -935,6 +935,14 @@
     "format": "png"
   }]
 }, {
+  "name": "polynomial",
+  "icons": [{
+    "url": "ipfs://bafybeiadb4izxxptk3wy34cam3k2rxgqb2vrzxtltqnp3vwdvd2igwoghu",
+    "width": 500,
+    "height": 500,
+    "format": "jpg"
+  }]
+}, {
   "name": "gobbl",
   "icons": [{
     "url": "ipfs://QmQbJTFnUfWf31d16beZfqM4Fo5NRJjryNrDMyNfj9YQnS",
@@ -1737,7 +1745,7 @@
 }, {
   "name": "peaq",
   "icons": [{
-    "url": "ipfs://bafybeihnkvboj4n6psjnzn4omaopfekvag4kax22l4agx6zppp7xx3d6ky",
+    "url": "ipfs://QmQ7Jue8v2YXyhmDTkSbzCJxzZDa2v4GZZKViESdyswzrj",
     "width": 256,
     "height": 256,
     "format": "png"
@@ -1805,6 +1813,14 @@
     "width": 500,
     "height": 500,
     "format": "png"
+  }]
+}, {
+  "name": "polynomialSepolia",
+  "icons": [{
+    "url": "ipfs://bafybeidr3h4onsdhjojrck7tqysrmnduzhgzdhf3l5uqake6w6474vvuha",
+    "width": 500,
+    "height": 500,
+    "format": "jpg"
   }]
 }, {
   "name": "nautilus",
@@ -2175,6 +2191,14 @@
     "format": "png"
   }]
 }, {
+  "name": "redefi",
+  "icons": [{
+    "url": "ipfs://QmQd2MWwDkGsH6JsHPAKXqy8o2kedYMzbnaEHoRpmvSiLW",
+    "width": 350,
+    "height": 350,
+    "format": "png"
+  }]
+}, {
   "name": "chilizchain",
   "icons": [{
     "url": "ipfs://QmYV5xUVZhHRzLy7ie9D8qZeygJHvNZZAxwnB9GXYy6EED",
@@ -2388,6 +2412,14 @@
     "url": "ipfs://Qmbwi5FoJdL6HuFmQGQu1sdyoGrSuj45H12tMNTnpRAmLw",
     "width": 795,
     "height": 792,
+    "format": "png"
+  }]
+}, {
+  "name": "abyss",
+  "icons": [{
+    "url": "ipfs://Qmeaa9TSsdUuJtRRX9DWX3iuQ4bypTQfctGciuKsFkKL8C",
+    "width": 558,
+    "height": 495,
     "format": "png"
   }]
 }, {
@@ -2708,6 +2740,14 @@
     "url": "ipfs://bafybeie7jzlzlpz7c3a3oh4x5joej23dj2qf3cexmchjyc72hv3fblcaja",
     "width": 256,
     "height": 256,
+    "format": "png"
+  }]
+}, {
+  "name": "curtis",
+  "icons": [{
+    "url": "ipfs://QmTqiPnYZx6ZyPPbtsuh8VvvoH6DSCJGjTUgtTN9X8NScP",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -3095,6 +3135,14 @@
     "format": "png"
   }]
 }, {
+  "name": "zeusicon",
+  "icons": [{
+    "url": "ipfs://QmdktFyG3dM6Jk4j7V9xzvWwSpmnLcaNDuWhPwFHJw7K6e",
+    "width": 100,
+    "height": 100,
+    "format": "png"
+  }]
+}, {
   "name": "ham",
   "icons": [{
     "url": "ipfs://QmcbYVenTET9HBS7vs7SGv1MNqnRscAKVF5kaRVHaVCfvs",
@@ -3468,6 +3516,14 @@
     "url": "ipfs://Qmb6VAhhtaJmdaW1j7PAjxaLju1V24PPDFBdXtebyTSfsZ",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "emc",
+  "icons": [{
+    "url": "ipfs://QmUDymyXZS9eUn5p3tyDyxhD8GMB91HUBAAvySwENfPevh",
+    "width": 502,
+    "height": 579,
     "format": "png"
   }]
 }, {
@@ -4148,6 +4204,14 @@
     "url": "ipfs://QmRxeKFwBwrXyDksoN4NzNRp3R35s8pVnTBfBj4AJSCq5g",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "connext",
+  "icons": [{
+    "url": "ipfs://QmQBuGUPQ4f7zREjdviV4itwJB6gCbYEMvfaiWqFMweTPm",
+    "width": 128,
+    "height": 128,
     "format": "png"
   }]
 }, {
