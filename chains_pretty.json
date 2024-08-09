@@ -3944,7 +3944,7 @@
   }, {
     "name": "VinuExplorer",
     "url": "https://vinuexplorer.org",
-    "standard": "none"
+    "standard": "EIP3091"
   }]
 }, {
   "name": "Structx Mainnet",
