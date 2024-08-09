@@ -3919,7 +3919,7 @@
   }, {
     "name": "VinuExplorer Testnet",
     "url": "https://testnet.vinuexplorer.org",
-    "standard": "none"
+    "standard": "EIP3091"
   }]
 }, {
   "name": "VinuChain Network",
