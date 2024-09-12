@@ -689,9 +689,9 @@
 }, {
   "name": "VinuChain-Testnet",
   "icons": [{
-    "url": "ipfs://bafkreidtie4srt52ry67wd3dpxhklmug2ozrawvf3jdlljveinp3frutra",
+    "url": "ipfs://bagbaierafulkkmddubrrc2lqkn7yzdkn26rgo6wux5366qgmzhgxejsnhhua",
     "width": 2000,
-    "height": 392,
+    "height": 2000,
     "format": "png"
   }]
 }, {
@@ -2433,9 +2433,9 @@
 }, {
   "name": "VinuChain",
   "icons": [{
-    "url": "ipfs://bafybeiderli6uaaxk7eboyf7g4abnybgrkbglmqbkmf25z57ode7zdzmvy",
-    "width": 613,
-    "height": 613,
+    "url": "ipfs://bagbaierafulkkmddubrrc2lqkn7yzdkn26rgo6wux5366qgmzhgxejsnhhua",
+    "width": 2000,
+    "height": 2000,
     "format": "png"
   }]
 }, {
