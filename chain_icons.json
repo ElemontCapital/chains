@@ -121,10 +121,10 @@
 }, {
   "name": "creditcoin",
   "icons": [{
-    "url": "ipfs://QmTfecECALDCy51zwVbXBSXb6TokqowCYzVLv65etahLxX",
-    "width": 1024,
-    "height": 1024,
-    "format": "png"
+    "url": "ipfs://QmbAk3S8XwCRYqKXbXc9rwBNJ9bWTUBgC6HFDE5ayrGfnd",
+    "width": 1200,
+    "height": 1200,
+    "format": "jpg"
   }]
 }, {
   "name": "deepl",
@@ -185,9 +185,9 @@
 }, {
   "name": "aia",
   "icons": [{
-    "url": "ipfs://QmXbBMMhjTTGAGjmqMpJm3ufFrtdkfEXCFyXYgz7nnZzsy",
-    "width": 160,
-    "height": 160,
+    "url": "ipfs://QmPAcZioXaoJd8vFRrqdj2cWXWkbSHoCPiyZH9ukncfvfg",
+    "width": 150,
+    "height": 150,
     "format": "png"
   }]
 }, {
@@ -727,6 +727,14 @@
     "format": "png"
   }]
 }, {
+  "name": "metacces",
+  "icons": [{
+    "url": "ipfs://QmbpYHpqR68uuJZCwm1CXtN51zi744qWzZ32ob9BKfgFTV",
+    "width": 40,
+    "height": 38,
+    "format": "png"
+  }]
+}, {
   "name": "top",
   "icons": [{
     "url": "ipfs://QmYikaM849eZrL8pGNeVhEHVTKWpxdGMvCY5oFBfZ2ndhd",
@@ -780,6 +788,14 @@
     "url": "ipfs://QmdUgiGaD6fGjhb9x1NvfccvEBBFq2YHSm9yb8FNhpwHkW",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "arma",
+  "icons": [{
+    "url": "ipfs://QmcwQFHeLV7PCMe37nDb6pAgisUo5tVH6TBXsySDGtC9b9",
+    "width": 800,
+    "height": 800,
     "format": "png"
   }]
 }, {
@@ -1053,6 +1069,14 @@
     "width": 2000,
     "height": 2000,
     "format": "png"
+  }]
+}, {
+  "name": "everclear",
+  "icons": [{
+    "url": "ipfs://QmQBiGUPQ4f7zREjdvaV4itwJB2gCaYEMvtaiDqFMweTPn",
+    "width": 501,
+    "height": 501,
+    "format": "svg"
   }]
 }, {
   "name": "dm2verse",
@@ -1759,6 +1783,14 @@
     "format": "png"
   }]
 }, {
+  "name": "isuncoin",
+  "icons": [{
+    "url": "ipfs://Qmdj8PwchmbpZKYvkB3oJiRX9eZdY6C16AbEz6D1DU3Vqn",
+    "width": 60,
+    "height": 61,
+    "format": "svg"
+  }]
+}, {
   "name": "daon",
   "icons": [{
     "url": "ipfs://bafkreiapaxokh2p4j7hg43ug2inomixiwrdhni4kpqazvqifssnez7efze",
@@ -2199,6 +2231,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mttnetwork",
+  "icons": [{
+    "url": "ipfs://QmRwyxmvNEJBJwXDFAAGSaoUqTLjdthwzhKx3rjyKRR6ZL",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "tmychain",
   "icons": [{
     "url": "ipfs://Qmcd19ksUvNMD1XQFSC55jJhDPoF2zUzzV7woteFiugwBH",
@@ -2268,6 +2308,14 @@
     "url": "ipfs://QmaX5iqQTrJD8TBuvoT97xPMG6LYamjPCPnZUUMh12jc99",
     "width": 297,
     "height": 378,
+    "format": "png"
+  }]
+}, {
+  "name": "6do",
+  "icons": [{
+    "url": "ipfs://QmWyyraWiYNJRAb4AEEkozjh8u5TAnFNG7YnFd7A54AjPi",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
