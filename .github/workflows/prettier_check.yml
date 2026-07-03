@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v2
-      - uses: actions/cache@v2
+        uses: actions/checkout@v7
+      - uses: actions/cache@v6
         name: Configure npm caching
         with:
           path: ~/.npm
@@ -18,4 +18,4 @@ jobs:
             ${{ runner.os }}-npm-
       - name: Run prettier
         run: |-
-          npx prettier --check '_data/*/*.json'
+          npx prettier@1.19.1 --check '_data/*/*.json'
